@@ -1,0 +1,3 @@
+Garita     Estado
+ #:12         On
+ #:5         Off
